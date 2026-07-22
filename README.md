@@ -1,160 +1,71 @@
 <div align="center">
 
-# KABIBALAN S
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:E10600&height=220&section=header&text=KABIBALAN%20S&fontSize=48&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Founder%20of%20QIXARC&descAlignY=55&descSize=18&descColor=E10600" width="100%"/>
 
-### Founder • Software Builder • AI Explorer
+<br/>
 
-*"Building products that solve problems, not just projects that fill repositories."*
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1200&color=E10600&center=true&vCenter=true&width=600&lines=Software+Developer;AI+Builder;SaaS+Builder;Founder+of+QIXARC;Building+in+public." alt="Typing SVG"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=22&pause=1200&color=E11D48&center=true&vCenter=true&width=750&lines=Founder+of+QIXARC;Building+AI+Products;Creating+Micro+SaaS;Engineering+Ideas+into+Reality;Always+Building..." />
+<br/><br/>
 
-<br>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-QIXARC-black?style=for-the-badge&logo=vercel)](https://qixarc.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kabibalan-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kabibalan-s-27751b3ba)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:mrkabibalan@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=E10600)](https://qixarc.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=E10600)](https://www.linkedin.com/in/kabibalan-s-27751b3ba)
+[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=E10600)](https://github.com/Mrkabimaniac)
+[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=E10600)](mailto:mrkabibalan@gmail.com)
 
 </div>
 
----
-
-# About
-
-I'm **Kabibalan**, a B.Tech Information Technology student and the founder of **QIXARC**.
-
-I enjoy transforming ambitious ideas into software products.
-
-Rather than building isolated projects, I focus on creating systems that solve real-world problems through Artificial Intelligence, Automation, SaaS, and Software Engineering.
-
-Currently my mission is simple:
-
-> **Build products people genuinely want to use.**
+<br/>
 
 ---
-
-# Building
-
-## QIXARC
-
-Technology Startup
-
-Developing software products, AI systems, business tools, and digital experiences.
-
----
-
-## Scaler Profile
-
-Micro SaaS
-
-WhatsApp & Instagram Automation Platform
-
-> Helping businesses automate communication, lead management and customer engagement.
-
----
-
-## Serlo
-
-Smart Notes & Workspace
-
-A modern productivity platform for individuals and teams.
-
-Currently under development.
-
----
-
-## DecisionSphere
-
-Decision Intelligence Platform
-
-Helping people analyze complex decisions through AI-powered research and structured thinking.
-
----
-
-# Tech Stack
-
-### Languages
-
-```
-Python
-Java
-JavaScript
-C
-```
-
-### Web
-
-```
-HTML
-CSS
-```
-
-### Database
-
-```
-MySQL
-Firebase
-```
-
-### Tools
-
-```
-Git
-GitHub
-Google AI Studio
-Canva
-Hostinger
-Vercel
-```
-
----
-
-# Current Focus
-
-```text
-Building AI Products
-██████████████░░░░ 80%
-
-Micro SaaS
-████████████████░░ 90%
-
-Automation
-███████████████░░░ 85%
-
-Software Engineering
-█████████████░░░░░ 75%
-
-Learning Every Day
-██████████████████ 100%
-```
-
----
-
-# Philosophy
-
-```cpp
-while(alive)
-{
-    Learn();
-
-    Build();
-
-    Fail();
-
-    Improve();
-
-    Repeat();
-}
-```
-
----
-
-# GitHub
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mrkabimaniac&show_icons=true&hide_border=true&bg_color=00000000&title_color=E11D48&icon_color=E11D48&text_color=ffffff"/>
+### About
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Mrkabimaniac&theme=black-ice&hide_border=true"/>
+</div>
+
+I don't just write code — I build products.
+
+I'm a B.Tech Information Technology student, software developer, and the founder of **QIXARC**, where I build SaaS platforms, AI applications, and automation systems that solve real-world problems.
+
+My long-term vision is to build globally impactful AI products and technology companies.
+
+---
+
+<div align="center">
+
+### Current Focus
+
+</div>
+
+<br/>
+
+**Building**
+- QIXARC — Technology Startup
+- Scaler Profile — WhatsApp & Instagram Automation Platform
+- Serlo — Notes & Workspace Platform
+- DecisionSphere — AI Decision Intelligence Platform
+
+**Learning**
+- Artificial Intelligence
+- Software Architecture
+- Product Design
+
+---
+
+<div align="center">
+
+### Tech Stack
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,java,js,c,html,css,mysql,firebase,git,github,vercel,canva&theme=dark"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Google_AI_Studio-000000?style=flat-square&logoColor=E10600&color=0D0D0D"/>
+<img src="https://img.shields.io/badge/Hostinger-000000?style=flat-square&logoColor=E10600&color=0D0D0D"/>
 
 </div>
 
@@ -162,28 +73,86 @@ while(alive)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrkabimaniac&layout=compact&hide_border=true&bg_color=00000000&title_color=E11D48&text_color=ffffff"/>
+### Featured Projects
 
 </div>
 
----
+<br/>
 
-# Vision
+**Scaler Profile** — *Micro SaaS*
+WhatsApp & Instagram automation platform for business messaging, lead management, and customer engagement.
+`Status: Building`
 
-I don't want to build apps.
+<br/>
 
-I want to build an ecosystem.
+**Serlo**
+A modern notes and workspace platform for personal and team productivity.
+`Status: Building`
 
-An ecosystem where AI, automation and software work together to help founders, businesses and creators make better decisions and build faster.
+<br/>
 
-That's what **QIXARC** is becoming.
+**DecisionSphere**
+AI-powered decision intelligence platform for risk mapping, research, and strategic planning.
+`Status: Prototype`
 
 ---
 
 <div align="center">
 
-### "Every repository is another step toward building something meaningful."
+### GitHub Analytics
 
-⭐ Thanks for visiting my profile.
+<br/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mrkabimaniac&show_icons=true&hide_border=true&bg_color=00000000&title_color=E10600&icon_color=E10600&text_color=FFFFFF&ring_color=E10600"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrkabimaniac&layout=compact&hide_border=true&bg_color=00000000&title_color=E10600&text_color=FFFFFF&langs_count=8"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mrkabimaniac&hide_border=true&background=00000000&stroke=E10600&ring=E10600&fire=E10600&currStreakLabel=E10600&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B8B8B"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mrkabimaniac&bg_color=00000000&color=E10600&line=E10600&point=FFFFFF&area=true&area_color=E10600&hide_border=true"/>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Mrkabimaniac/Mrkabimaniac/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### Founder Philosophy
+
+<br/>
+
+*"Great products are built by solving meaningful problems — not by chasing trends."*
+
+</div>
+
+---
+
+<div align="center">
+
+### Connect
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=E10600)](https://qixarc.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=E10600)](https://www.linkedin.com/in/kabibalan-s-27751b3ba)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=E10600)](https://github.com/Mrkabimaniac)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=E10600)](mailto:mrkabibalan@gmail.com)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E10600,100:000000&height=120&section=footer" width="100%"/>
+
+<sub>© QIXARC — Building the future, one product at a time.</sub>
 
 </div>
